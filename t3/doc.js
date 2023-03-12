@@ -60,9 +60,8 @@ function double(array1){
 let array1=[1,2,3]
 console.log(double(array1))
 
-//sau (aici)
+//sau (aici nu am stiut sigur daca trebuie sa scriem numerele de doua ori sau sa le inmultim cu 2)
 let l=[1,2,3]
-let k=[]
 console.log(l.map((x) => x*2))
 
 
